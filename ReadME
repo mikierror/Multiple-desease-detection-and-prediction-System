@@ -1,9 +1,8 @@
-Hello Guys Thanks For Downloading our Project.
 ------------------------------------------------------------------------------------
 Project Contributers :
-A) Alpha Coder 
-B) Mihir Bondre
-C) Aditya Malani
+A) Suryansh
+B) Manish
+C)Abhishek
 
 -----------------------------------------------------------------------------------
 Steps to setup the project :
@@ -14,28 +13,5 @@ Steps to setup the project :
 
 2) Install Nodejs Latest Version
 
-3) Install Python Dependencies :
-    pip install pandas
-    pip install scikit-learn
-    pip install numpy
-    pip install pickle-mixin
-
-4) If you are getting any other module error then install those packages 
-    using pip command
-
-5) Im Providing node_modules files so you need not install nodejs dependencies.
-
-6) Open the project file in vscode 
-
-7) Run this command in terminal : npm run dev
-
-8) Server will run on port number 4001 ,open browser and search : localhost:4001
-
------------------------------------------------------------------------------------------
-
-Note : If you face any problem Contact @DMRech on telegram, check the telegram channel
-    link in description of the vedio 
-
-Channel Name : Coding.Alphas
-
-------------------------------------------------------------------------------------------
+3) Fir hogya ji just run npm run dev 
+4) local4001
